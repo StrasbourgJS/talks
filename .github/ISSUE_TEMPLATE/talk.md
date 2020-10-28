@@ -3,7 +3,6 @@ name: Je souhaite être speaker et proposer un talk
 about: Proposer votre sujet à présenter
 title: "<Titre du talk>"
 labels: proposal
-assignees: edimitchel
 ---
 
 # <Titre du talk>
