@@ -1,6 +1,6 @@
 ---
-name: Proposition de talk
-about: Proposer votre sujet ou une idée pour un futur talk.
+name: Je souhaite être speaker et proposer un talk
+about: Proposer votre sujet à présenter
 title: "<Titre du talk>"
 labels: proposal
 assignees: edimitchel

@@ -6,7 +6,9 @@
 
 Call for Paper pour les talks Vue Strasbourg.
 
-## [📚 Proposer un sujet](https://github.com/VueStrasbourg/talks/issues/new?template=talk.md)
+## [🗣️ Proposer un sujet en tant que speaker](https://github.com/VueStrasbourg/talks/issues/new?template=talk.md)
+
+## [💡 Proposer une idée de sujet](https://github.com/VueStrasbourg/talks/issues/new?template=talk.md)
 
 ## [🗳️ Voter pour un talk](https://github.com/VueStrasbourg/talks/issues?q=is%3Aissue+is%3Aopen+sort%3Aupdated-desc) en utilisant la réaction 👍.
 
