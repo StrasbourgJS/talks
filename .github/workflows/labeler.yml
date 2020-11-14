@@ -11,7 +11,6 @@ jobs:
       with:
         repo-token: "${{ secrets.GITHUB_TOKEN }}"
         configuration-path: .github/labeler.yml
-        enable-versioned-regex: 0
         "✨ Lightning": "- [x] 5 minutes"
         "🔥 Normal": "- [x] 20 minutes"
         "☀️ Long": "- [x] 30 minutes"
