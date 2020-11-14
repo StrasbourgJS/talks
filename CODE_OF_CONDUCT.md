@@ -44,3 +44,4 @@ Et a été inspiré par :
 
 - [https://www.meetup.com/pdxpython/pages/12061872/Code_of_Conduct/](https://www.meetup.com/pdxpython/pages/12061872/Code_of_Conduct/)
 - [https://pyladies.com/CodeOfConduct/](https://pyladies.com/CodeOfConduct/)
+- [https://confcodeofconduct.com/](https://confcodeofconduct.com/)
