@@ -1,8 +1,8 @@
 ---
-name: Je souhaite être speaker et proposer un talk
+name: Je souhaite parler d'un sujet lors d'un prochain meet-up
 about: Proposer votre sujet à présenter
 title: "<Titre du talk>"
-labels: proposal
+labels: proposition
 ---
 
 # <Titre du talk>
@@ -31,3 +31,4 @@ labels: proposal
 
 - Nom et prénom :
 - Twitter :
+- Souhaitez-vous présenter ce sujet lors d'un prochain meet-up ? **Oui**

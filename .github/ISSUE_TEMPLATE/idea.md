@@ -1,8 +1,8 @@
 ---
-name: Proposer une idée de talk
-about: Proposer votre idée pour qu'un speaker puisse en parler.
+name: Je souhaite uniquement proposer mon idée
+about: Proposer votre idée pour qu'un autre speaker puisse en parler.
 title: "<Titre du talk>"
-labels: idea
+labels: proposition
 ---
 
 # <Titre du talk>
@@ -12,3 +12,23 @@ labels: idea
 ### Contenu
 
 (Décrivez en quelques lignes le contenu de la présentation)
+
+### Durée :
+
+- [ ] 5 minutes (Lightning talk)
+- [ ] 10 minutes
+- [ ] 20 minutes
+- [ ] 30 minutes
+- [ ] Précisez :
+
+### Niveau :
+
+- [ ] Débutant
+- [ ] Intermédiaire
+- [ ] Avancé
+
+## À propos de vous
+
+- Nom et prénom :
+- Twitter :
+- Souhaitez-vous présenter ce sujet lors d'un prochain meet-up ? **Non**

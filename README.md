@@ -1,21 +1,27 @@
 <p align="center">
-  <img height="128" width="128" src="./logo.jpg" alt="VueStrasbourg" />
+  <img height="128" width="128" src="./logo.jpg" alt="StrasbourgJS" />
 </p>
 
 # Talks
 
 Call for Paper pour les talks Vue Strasbourg.
 
-## [🗣️ Proposer un sujet en tant que speaker](https://github.com/VueStrasbourg/talks/issues/new?template=talk.md)
+## [🗣️ Proposer un sujet en tant que speaker](https://github.com/StrasbourgJS/talks/issues/new?template=talk.md)
 
-## [💡 Proposer une idée de sujet](https://github.com/VueStrasbourg/talks/issues/new?template=idea.md)
+## [💡 Proposer une idée de sujet](https://github.com/StrasbourgJS/talks/issues/new?template=idea.md)
 
-## [🗳️ Voter pour un talk](https://github.com/VueStrasbourg/talks/issues?q=is%3Aissue+is%3Aopen+sort%3Aupdated-desc) en utilisant la réaction 👍.
+## [🗳️ Voter pour un talk](https://github.com/StrasbourgJS/talks/issues?q=is%3Aissue+is%3Aopen+sort%3Aupdated-desc) en utilisant la réaction 👍.
 
 
 ### Liens utiles
 
-🗺️ [Mobilizon](https://mobilizon.fr/@vue_strasbourg) | 🐦 [Twitter](https://twitter.com/VueStrasbourg)
+🗺️ [Meetup.com](https://www.meetup.com/fr-FR/StrasbourgJS/) | 🐦 [Twitter](https://twitter.com/Strasbourg_js)
+
+### Où nous contacter ?
+
+- 🐦 [Twitter StrasbourgJS](https://twitter.com/Strasbourg_js)
+- 🐦 [Twitter Michel Edighoffer](https://twitter.com/edimitchel)
+- 🐦 [Twitter Keziah Moselle](https://twitter.com/KeziahMoselle)
 
 #### Ce repo a été inspiré par :
 
