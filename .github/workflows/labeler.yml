@@ -1,0 +1,18 @@
+name: "Issue Labeler"
+on:
+  issues:
+    types: [opened, edited]
+
+jobs:
+  triage:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: github/issue-labeler@v2.0
+      with:
+        repo-token: "${{ secrets.GITHUB_TOKEN }}"
+        configuration-path: .github/labeler.yml
+        enable-versioned-regex: 0
+        "✨ Lightning": "- [x] 5 minutes"
+        "🔥 Normal": "- [x] 20 minutes"
+        "☀️ Long": "- [x] 30 minutes"
+        "⏱️ Durée libre": "- [x] Précisez :"
