@@ -4,7 +4,7 @@
 
 # Talks
 
-Call for Paper pour les talks Vue Strasbourg.
+Call for Paper pour les talks StrasbourgJS.
 
 ## [🗣️ Proposer un sujet en tant que speaker](https://github.com/StrasbourgJS/talks/issues/new?template=talk.md)
 
