@@ -10,7 +10,7 @@ Le groupe StrasbourgJS s'engage à créer une communauté saine, respectueuse, s
 
 Le harcèlement comprend les commentaires offensants, verbaux ou écrits, liés au sexe, à l'identité ou à l'expression sexuelle, à l'orientation sexuelle, au handicap, à l'apparence physique, à l'âge, à la taille, à la race, à la nationalité ou aux croyances religieuses, l'intimidation délibérée, les menaces, le harcèlement, le suivi, la photographie ou l'enregistrement harassant, le contact physique inapproprié et l'attention sexuelle non souhaitée. Le langage et les images à caractère sexuel ne sont pas appropriés.
 
-Ces règles s'appliquent lors des conférences, les ateliers, les évènements ainsi qu'à l'ensemble des médias rattachés au groupe StrasbourgJS permettant toute forme d'échange publics ou privé et les plateformes de promotion de nos activités.
+Ces règles s'appliquent lors des conférences, les ateliers, les évènements ainsi qu'à l'ensemble des médias rattachés au groupe StrasbourgJS permettant toute forme d'échange public ou privé et les plateformes de promotion de nos activités.
 
 Les conférenciers, les partenaires ou tout autre intervenants sont également soumis à la politique de lutte contre le harcèlement.
 
