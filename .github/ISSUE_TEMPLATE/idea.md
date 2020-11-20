@@ -19,7 +19,6 @@ labels: 💡 idée
 - [ ] 10 minutes
 - [ ] 20 minutes
 - [ ] 30 minutes
-- [ ] 40 minutes
 - [ ] Précisez :
 
 ### Niveau :
