@@ -1,8 +1,12 @@
-'✨ Lightning':
+'✨ 5 minutes':
   - '- \[x\] 5 minutes'
-'🔥 Normal':
+'⏱️ 10 minutes':
+  - '- \[x\] 10 minutes'
+'🔥 20 minutes':
   - '- \[x\] 20 minutes'
-'☀️ Long':
+'☀️ 30 minutes':
   - '- \[x\] 30 minutes'
+'⏳ 1 heure':
+  - '- \[x\] 1 heure'
 '⏱️ Durée libre':
   - '- \[x\] Précisez :'
