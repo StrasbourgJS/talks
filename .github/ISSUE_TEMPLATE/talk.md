@@ -2,7 +2,7 @@
 name: Je souhaite parler d'un sujet lors d'un prochain meet-up
 about: Proposer votre sujet à présenter
 title: "<Titre du talk>"
-labels: proposition
+labels: 🗣️ talk
 ---
 
 # <Titre du talk>
