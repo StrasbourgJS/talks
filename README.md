@@ -8,6 +8,8 @@ Call for Paper pour les talks StrasbourgJS.
 
 ## [🗣️ Proposer un sujet en tant que speaker](https://github.com/StrasbourgJS/talks/issues/new?template=talk.md)
 
+## [🛠️ Proposer un workshop](https://github.com/StrasbourgJS/talks/issues/new?template=workshop.md)
+
 ## [💡 Proposer une idée de sujet](https://github.com/StrasbourgJS/talks/issues/new?template=idea.md)
 
 ## [🗳️ Voter pour un talk](https://github.com/StrasbourgJS/talks/issues?q=is%3Aissue+is%3Aopen+sort%3Aupdated-desc) en utilisant la réaction 👍.
