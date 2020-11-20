@@ -1,13 +1,13 @@
 ---
-name: Je souhaite uniquement proposer mon idée
-about: Proposer votre idée pour qu'un autre speaker puisse en parler.
-title: "<Titre du talk>"
-labels: proposition
+name: Je souhaite proposer mon idée
+about: Proposer votre idée pour qu'un speaker puisse le présenter.
+title: "<Titre du talk/workshop>"
+labels: 💡 idée
 ---
 
-# <Titre du talk>
+# <Titre du talk|workshop>
 
-## À propos du talk
+## À propos du talk|workshop
 
 ### Contenu
 
@@ -19,6 +19,7 @@ labels: proposition
 - [ ] 10 minutes
 - [ ] 20 minutes
 - [ ] 30 minutes
+- [ ] 40 minutes
 - [ ] Précisez :
 
 ### Niveau :
