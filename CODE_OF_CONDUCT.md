@@ -1,6 +1,6 @@
 # Code de conduite de StrasbourgJS
 
-Tous les participantes et participants, conférencières et conférenciers ainsi que les bénévoles de notre conférence sont tenus d'accepter le code de conduite suivant. Les organisateurs feront respecter ce code durant les événements et sur les réseaux sociaux. Nous attendons de tous les participantes et participants qu'ils et elles coopèrent afin de garantir un environnement sûr pour toutes et tous.
+Les organisateurs feront respecter ce code durant les événements et sur les réseaux sociaux. Nous attendons de tous les participantes et participants qu'ils et elles coopèrent afin de garantir un environnement sûr pour toutes et tous. Tous les participantes et participants, conférencières et conférenciers ainsi que les bénévoles de notre conférence sont tenus d'accepter le code de conduite suivant. 
 
 ## Mission
 
@@ -31,7 +31,7 @@ Si vous êtes harcelé, si vous remarquez que quelqu'un d'autre est harcelé ou 
 
 Les membres de la communauté à qui il est demandé de cesser tout comportement de harcèlement sont tenus de s'y conformer immédiatement. Dans le cas contraire les organisateurs pourront prendre toute mesure qu'ils jugent appropriée, y compris l'avertissement du contrevenant ou l'expulsion de la conférence sans remboursement.
 
-Les organisateurs de la conférence seront heureux d'aider les participantes et participants à contacter la sécurité du lieu ou les forces de l'ordre locales, de leur fournir une escorte ou d'aider de toute autre manière les personnes victimes de harcèlement à se sentir en sécurité pendant la durée de la conférence.
+Les organisateurs de la conférence s'engageront à faire respecter les règles et pourront être amenés à contacter la sécurité du lieu ou les forces de l'ordre locales, de fournir une escorte aux participants ou d'aider de toute autre manière les personnes victimes de harcèlement à se sentir en sécurité pendant la durée de la conférence.
 
 ## Licence
 
@@ -40,7 +40,7 @@ Ce code de conduite est sous licence [Attribution-ShareAlike 3.0 Unported (CC BY
 
 ## Accréditations
 
-Et a été inspiré par :
+Ce code de conduite a été inspiré par :
 
 - [https://www.meetup.com/pdxpython/pages/12061872/Code_of_Conduct/](https://www.meetup.com/pdxpython/pages/12061872/Code_of_Conduct/)
 - [https://pyladies.com/CodeOfConduct/](https://pyladies.com/CodeOfConduct/)
