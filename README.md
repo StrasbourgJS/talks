@@ -1,5 +1,5 @@
 <p align="center">
-  <img height="128" width="128" src="./logo.jpg" alt="StrasbourgJS" />
+  <img width="50%" height="auto" style="" src="./logo.png" alt="StrasbourgJS" />
 </p>
 
 # Talks
