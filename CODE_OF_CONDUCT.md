@@ -1,6 +1,6 @@
 # Code de conduite de StrasbourgJS
 
-Les organisateurs feront respecter ce code durant les événements et sur les réseaux sociaux. Nous attendons de tous les participantes et participants qu'ils et elles coopèrent afin de garantir un environnement sûr pour toutes et tous. Tous les participantes et participants, conférencières et conférenciers ainsi que les bénévoles de notre conférence sont tenus d'accepter le code de conduite suivant. 
+Les organisateurs feront respecter ce code durant les événements et sur les réseaux sociaux. Nous attendons des participantes et des participants qu'ils coopèrent afin de garantir un environnement sûr pour toutes et tous. Tous les participantes et participants, conférencières et conférenciers ainsi que les bénévoles de notre conférence sont tenus d'accepter le code de conduite suivant. 
 
 ## Mission
 
