@@ -12,7 +12,7 @@ Call for Paper pour les talks StrasbourgJS.
 
 ## [💡 Soumettre une idée](https://github.com/StrasbourgJS/talks/issues/new?template=idea.md)
 
-## [🗳️ Voter pour un talk](https://github.com/StrasbourgJS/talks/issues?q=is%3Aissue+is%3Aopen+sort%3Aupdated-desc) en utilisant la réaction 👍.
+## 🗳️ Voter pour [un talk](https://github.com/StrasbourgJS/talks/issues?q=is%3Aopen+is%3Aissue+label%3A%22%F0%9F%97%A3%EF%B8%8F+talk%22+sort%3Aupdated-desc) ou [une idée](https://github.com/StrasbourgJS/talks/issues?q=is%3Aopen+is%3Aissue+sort%3Aupdated-desc+label%3A%22%F0%9F%92%A1+id%C3%A9e%22) en utilisant la réaction 👍.
 
 
 ### Liens utiles
