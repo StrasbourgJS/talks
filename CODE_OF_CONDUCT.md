@@ -17,7 +17,7 @@ Les conférenciers, les partenaires ou tout autre intervenants sont également s
 
 ## Que faire si un membre enfreint le code de conduite ?
 
-Si vous êtes harcelé, si vous remarquez que quelqu'un d'autre est harcelé ou si vous avez d'autres préoccupations :
+Si vous êtes harcelés, si vous remarquez que quelqu'un d'autre est harcelé ou si vous avez d'autres préoccupations :
 
 **Veuillez contacter un organisateur de StrasbourgJS immédiatement et nous prendrons les mesures nécessaires pour rétablir la situation.**
 
