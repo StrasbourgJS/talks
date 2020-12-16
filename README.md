@@ -23,9 +23,12 @@ Call for Paper pour les talks StrasbourgJS.
 
 Si vous avez des questions n'hésitez pas à nous contacter :
 
+- 📧 contact@strasbourgjs.org
 - 🐦 [Twitter StrasbourgJS](https://twitter.com/Strasbourg_js)
 - 🐦 [Twitter Michel Edighoffer](https://twitter.com/edimitchel)
 - 🐦 [Twitter Keziah Moselle](https://twitter.com/KeziahMoselle)
+
+### [Code de Conduite](./CODE_OF_CONDUCT.md)
 
 #### Ce dépôt a été inspiré par :
 
