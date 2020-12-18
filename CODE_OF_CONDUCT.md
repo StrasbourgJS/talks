@@ -23,6 +23,7 @@ Si vous êtes harcelés, si vous remarquez que quelqu'un d'autre est harcelé ou
 
 ### Comment nous contacter ?
 
+- 📧 contact@strasbourgjs.org
 - 🐦 [Twitter StrasbourgJS](https://twitter.com/Strasbourg_js)
 - 🐦 [Twitter Michel Edighoffer](https://twitter.com/edimitchel)
 - 🐦 [Twitter Keziah Moselle](https://twitter.com/KeziahMoselle)
