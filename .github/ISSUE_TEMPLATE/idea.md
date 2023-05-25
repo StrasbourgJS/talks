@@ -1,27 +1,19 @@
 ---
 name: Je souhaite proposer mon idée
-about: Proposer votre idée pour qu'un speaker puisse le présenter.
-title: "<Titre du talk/workshop>"
+about: Proposer votre idée pour qu'un speaker puisse le présenter à ma place.
+title: "<Titre de l'idée/sujet>"
 labels: 💡 idée
 ---
 
-# <Titre du talk|workshop>
+# <Titre de l'idée/sujet>
 
-## À propos du talk|workshop
+## À propos de l'idée/sujet
 
 ### Contenu
 
-(Décrivez en quelques lignes le contenu de la présentation)
+(Décrivez en quelques lignes le contenu de votre idée / sujet)
 
-### Durée :
-
-- [ ] 5 minutes (Lightning talk)
-- [ ] 10 minutes
-- [ ] 20 minutes
-- [ ] 30 minutes
-- [ ] Précisez :
-
-### Niveau :
+### Niveau de d'expertise souhaité :
 
 - [ ] Débutant
 - [ ] Intermédiaire
@@ -31,4 +23,5 @@ labels: 💡 idée
 
 - Nom et prénom :
 - Twitter :
-- Souhaitez-vous présenter ce sujet lors d'un prochain meet-up ? **Non**
+- Je souhaite présenter ce sujet lors d'un meet-up en étant aidé ? **Oui / Non**
+- Êtes-vous ok pour que quelqu'un utilise votre idée pour en faire un talk ? **Oui / Non**
